@@ -1,5 +1,5 @@
 body{
     color: red;
     background-color: lightgreen;
-    border: blue 1px;
+    border: solid red 1px;
 }
